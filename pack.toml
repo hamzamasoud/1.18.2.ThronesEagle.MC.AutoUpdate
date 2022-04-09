@@ -1,0 +1,13 @@
+name = "1.18.2.ThronesEagle.MC.AutoUpdate"
+author = "@ThronesEagle"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef029b070570bf0f684ab5cf01e9c1fb4a4c95a0150a47aa366b8ac86a4068c4"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
